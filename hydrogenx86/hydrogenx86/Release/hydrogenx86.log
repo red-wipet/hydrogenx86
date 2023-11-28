@@ -1,0 +1,18 @@
+﻿  destruction.cpp
+C:\Users\MrSuperBuddy\source\repos\hydrogenx86\hydrogenx86\destruction.cpp(244,5): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "ExitWindows"
+  main.cpp
+C:\Users\MrSuperBuddy\source\repos\hydrogenx86\hydrogenx86\main.cpp(15,5): warning C4007: WinMain: должен быть "__stdcall"
+  payloads.cpp
+C:\Users\MrSuperBuddy\source\repos\hydrogenx86\hydrogenx86\payloads.cpp(59,50): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\MrSuperBuddy\source\repos\hydrogenx86\hydrogenx86\payloads.cpp(59,81): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\MrSuperBuddy\source\repos\hydrogenx86\hydrogenx86\payloads.cpp(60,53): warning C4838: Преобразование из "int" в "DWORD" требует сужающего преобразования.
+C:\Users\MrSuperBuddy\source\repos\hydrogenx86\hydrogenx86\payloads.cpp(164,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\MrSuperBuddy\source\repos\hydrogenx86\hydrogenx86\payloads.cpp(320,15): warning C4305: =: усечение из "double" в "FLOAT"
+C:\Users\MrSuperBuddy\source\repos\hydrogenx86\hydrogenx86\payloads.cpp(420,23): warning C4018: <: несоответствие типов со знаком и без знака
+  timer.cpp
+  virtual_screen.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 69 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  hydrogenx86.vcxproj -> C:\Users\MrSuperBuddy\source\repos\hydrogenx86\Release\hydrogenx86.exe
